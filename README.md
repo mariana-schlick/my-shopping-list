@@ -16,9 +16,7 @@ Este projeto foi criado para praticar conceitos como manipulação de arrays, in
 
 ## 🚀 Tecnologias Utilizadas  
 
-- **TypeScript**  
-- **HTML5**  
-- **CSS3**  
+- **TypeScript**   
 
 ---
 
